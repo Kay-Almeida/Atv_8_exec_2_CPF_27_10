@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atv_8_exec_2_CPF_27_10</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="area">Ver área de emissão</string>
+    <string name="voltar">Voltar</string>
+</resources>
